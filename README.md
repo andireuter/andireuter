@@ -23,4 +23,5 @@ You can find me on [![LinkedIn][1.2]][1], or on [![Behance][2.2]][1], or on [![H
 [3]: https://www.hackerrank.com/andreasreuter
 
 # I like to play basketball :basketball:
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/xT0GqIu6NyR7C1f2IU" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/zach-xT0GqIu6NyR7C1f2IU">via GIPHY</a></p>
+
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><img src="https://i.giphy.com/media/xT0GqIu6NyR7C1f2IU/giphy.webp" alt=""></div><p><a href="https://giphy.com/gifs/zach-xT0GqIu6NyR7C1f2IU">via GIPHY</a></p>
