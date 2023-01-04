@@ -12,7 +12,7 @@ In 2021 I founded [NO DANCE MONKEY](https://www.nodancemonkey.com). I work toget
 
 Since a year I attend product design courses and I started to learn the programming language [**Go**](https://www.golang.org). My life is too short not to just do it. :grin:
 
-You can find me on [![LinkedIn][1.2]][1], or on [![Behance][2.2]][1], or on [![HackerRank][3.2]][1].
+You can find me on [![LinkedIn][1.2]][1], or on [![Behance][2.2]][2], or on [![HackerRank][3.2]][3].
 
 [1.2]: https://raw.githubusercontent.com/andreasreuter/andreasreuter/main/img/linkedin.png (LinkedIn icon)
 [2.2]: https://raw.githubusercontent.com/andreasreuter/andreasreuter/main/img/behance.png (Behance icon)
