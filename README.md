@@ -20,9 +20,9 @@ You can find me on [![LinkedIn][1.2]][1], or on [![Behance][2.2]][2], or on [![H
 [2.2]: https://raw.githubusercontent.com/andireuter/andireuter/main/img/behance.png (Behance icon)
 [3.2]: https://raw.githubusercontent.com/andireuter/andireuter/main/img/hackerrank.png (HackerRank icon)
 
-[1]: [[https://www.behance.net/andireuter](https://www.linkedin.com/in/andireuter)](LinkedIn)
-[2]: [https://www.behance.net/andireuter](Behance)
-[3]: [https://www.hackerrank.com/andireuter](HackerRank)
+[1]: https://www.linkedin.com/in/andireuter
+[2]: https://www.behance.net/andireuter
+[3]: https://www.hackerrank.com/andireuter
 
 # I like to play basketball :basketball:
 
