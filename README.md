@@ -4,7 +4,7 @@ Hello,
 
 My name is Andi. :blush:
 
-I am a freelance iOS Developer with 5 years' experience and very skilled in UX concerning Apple apps. I also have expertise in Google Cloud and NodeJS backends. My native language is German. You can hire me for freelance jobs. Let's get in touch via [email](https://www.andireuter.com/contact) or [LinkedIn](https://www.linkedin.com/in/andireuter).
+I am a Lead iOS Engineer with 11 years' experience and very skilled in UX concerning Apple apps. I also have expertise in Google Cloud and NodeJS backends. My native language is German. You can hire me for freelance jobs. Let's get in touch via [email](https://www.andireuter.com/contact) or [LinkedIn](https://www.linkedin.com/in/andireuter).
 
 [Get my resume](https://144032887.fs1.hubspotusercontent-eu1.net/hubfs/144032887/Andreas%20Reuter%20-%20Resume%20EN%20(latest).pdf)
 
@@ -13,6 +13,8 @@ In 2021 I founded [NO DANCE MONKEY](https://www.nodancemonkey.com). I work toget
 I received my product design certification in 2023 and I started to learn the programming language [**Go**](https://www.golang.org). My life is too short not to just do it. :grin:
 
 Since 2024 I study marketing. It's amazing how much value marketing knowledge gives back to my businesses. 🔥
+
+In 2025 I co-founded [Ragbricks](https://www.ragbricks.com) with a talented marketer, Ragbricks is a chatbot for HubSpot marketing CRM.
 
 You can find me on [![LinkedIn][1.2]][1], or on [![Behance][2.2]][2], or on [![HackerRank][3.2]][3].
 
